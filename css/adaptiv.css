@@ -1,0 +1,62 @@
+@media screen and (max-width: 1830px) {
+  
+  .pozdravlenie-text-CONTAINER {
+    width: 1150px;
+  }
+
+  .kartinki-1 {
+    margin-top: 200px;
+    margin-left: 1330px;
+  }
+
+}
+
+@media screen and (max-width: 1650px) {
+  
+  .pozdravlenie-text-CONTAINER {
+    width: 950px;
+  }
+
+  .kartinki-1 {
+    margin-top: 100px;
+    margin-left: 1130px;
+  }
+
+}
+
+@media screen and (max-width: 1450px) {
+  
+  .pozdravlenie-text-CONTAINER {
+    margin-left: 370px;
+  }
+
+  .kartinki-1 {
+    margin-top: 100px;
+    margin-left: 1050px;
+  }
+
+  .OlgaAnatolevnaFoto {
+    margin-left: 20px;
+  }
+
+}
+
+@media screen and (max-width: 1350px) {
+  
+  .pozdravlenie-text-CONTAINER {
+    margin-left: 340px;
+    padding: 30px;
+    height: 350px;
+  }
+
+  .kartinki-1 {
+    margin-top: 100px;
+    margin-left: 1000px;
+  }
+
+  .OlgaAnatolevnaFoto {
+    margin-left: 20px;
+  }
+
+}
+
